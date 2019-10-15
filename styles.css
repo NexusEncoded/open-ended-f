@@ -1,0 +1,12 @@
+h1{
+  font-weight: bold;
+  background-color: lightgray;
+}
+
+table{
+ background-color: lightblue;
+}
+
+table:hover{
+  text-decoration: underline;
+}
